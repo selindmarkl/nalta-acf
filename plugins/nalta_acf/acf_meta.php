@@ -19,6 +19,9 @@ function nalta_meta_till_fotografier ( $content ) {
 <span class="meta-rubrik">Årtal:</span> [ecpt_field id="year"]<br />
 <span class="meta-rubrik">Bildrättigheter:</span> [ecpt_field id="copyright"]<br />
 <span class="meta-rubrik">Bildnummer:</span> [ecpt_field id="bildnummer"]<br />
+Fotograf: [acf field="{$fotograf}"]
+Fotograf: [acf field=fotograf]
+Fotograf: [acf field="Fotograf"]
 <br />'; 
 
     }
