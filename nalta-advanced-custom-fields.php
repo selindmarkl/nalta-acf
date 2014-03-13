@@ -3,7 +3,7 @@
 Plugin Name: Nalta meta till fotografier
 Plugin URI: https://github.com/selindmarkl/nalta-acf/tree/master/plugins/acf-meta
 Description: Presentera meta data som lagras i egna fält i en post. Denna plugin är anpassad fotoinformation från kommunarkivet.se 
-Version: 0.6
+Version: 0.61
 Author: Jido 
 Author URI: https://github.com/selindmarkl
 */
